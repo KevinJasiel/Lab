@@ -59,10 +59,20 @@
   transform: translate3d(30%,0,-200px);
 }
 
-#slide1 { background: url("https://guatemalanadventure.com/wp-content/uploads/2014/11/LAGO-ONE-DAY-TOURS_604x310.jpg")}
-#slide2 { background: url("https://aprende.guatemala.com/wp-content/uploads/2017/01/volcan-tajumulco-400x200.gif")}
-#slide3 { background: url("https://tarugacreaciones.com/wp-content/uploads/2018/10/montana3.jpg")}
+#slide1 { background: url("https://www.guatemala.com/fotos/201703/Como-salvar-el-lago-atitlan-885x500.jpg")}
+#slide2 { background: url("https://www.guatemala.com/fotos/201712/Ascenso-al-Volcan-Acatenango-885x500.jpg")}
+#slide3 { background: url("https://www.anywhere.com/img-a/attraction/tikal-archaeological-site-guatemala/Tikal-2.jpg/-/w=800&h=480&fit=min&dp=1&q=10")}
 #slide4 { background: url("https://www.guatemala.com/fotos/201712/Semuc-Champey-885x500.jpg")}
-#slide5 { background: url("https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fdefinicionde.hugex.net%2Fwp-content%2Fuploads%2F2015%2F07%2Fe1001e86903d5fccba2a7e83a0547bd4.jpg&container=blogger&gadget=a&rewriteMime=image%2F*")}
+#slide5 { background: url("https://www.guatemala.com/fotos/201712/portada-final-playas-885x500.jpg")}
 
-Resources
+.serv{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+.card-text{
+  text-align: center;
+  font-size: 20px;
+  font-family: sans;
+}
