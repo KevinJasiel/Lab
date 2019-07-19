@@ -76,3 +76,104 @@
   font-size: 20px;
   font-family: sans;
 }
+
+/* Estilo del contenedor de Gabriel */
+
+.hm-gradient {
+    background-image: linear-gradient(to top, black%, #e3eeff 99%, #e3eeff 100%);
+}
+.darken-grey-text {
+    color:black;
+}
+
+/* Estilo del contenedor de Samuel Garcia 2 */
+
+h1,h2,h3{
+                text-align: center;
+            }
+            div#contenedor{
+                margin: auto;
+                width: 800px;
+                height: 800px;
+            }
+            div.cuadrante{
+                width: 48%;
+                height: 48%;
+                margin: 1px;
+                float: left;
+                position:relative;
+            }
+            #c1{
+                 box-shadow: -20px 0px 20px 0px #eee inset;
+                bottom: 0px;
+                color: red;
+                right: 0px;
+            }
+            #c2{
+                left: 0px;
+                color: black;
+                bottom: 0px;
+            }
+            #c3{
+                box-shadow: -20px 0px 20px 0px #eee inset;
+                top: 0px;
+                color: darkgoldenrod;
+                left:0px;
+
+            }
+            #c4{
+                top: 0px;
+                color:darkblue;
+                right:0px;
+            }
+            div.contenido{
+                color: #00A5C6;
+                background-color: whitesmoke;
+                height: 102%;
+                width: 102%;
+                text-align: center;
+                display: flex;
+                flex-wrap: nowrap;
+                position:absolute;
+                overflow: hidden;
+            }
+            div.contenido > i{
+                margin:auto;
+            }
+            @media only screen and (max-width: 960px) {
+           
+                div#contenedor{
+                    width: 650px;
+                    height: 650px;
+                }
+            }
+            @media only screen and (max-width: 768px) {
+           
+                div#contenedor{
+                    width: 500px;
+                    height: 500px;
+                }
+            }
+            @media only screen and (max-width: 600px) {
+          
+                div#contenedor{
+                    width: 400px;
+                    height: 400px;
+                }
+            }
+
+/* Estilo del contenedor de kenneth */
+
+ /* Remove the navbar's default margin-bottom and rounded borders */
+   .navbar {
+     margin-bottom: 0;
+     border-radius: 0;
+   }
+
+   /* Add a gray background color and some padding to the footer */
+   footer {
+     background-color: #f2f2f2;
+     padding: 25px;
+   }
+
+  
